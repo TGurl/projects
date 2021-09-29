@@ -1,0 +1,12 @@
+    Age: {age}
+
+   Sexy: {sexy}
+  Horny: {horny}
+   Slut: {slut}
+
+  Drunk: {drunk}
+Drugged: {drugged}
+
+ Fucked: {fucked}
+ Sucked: {sucked}
+
