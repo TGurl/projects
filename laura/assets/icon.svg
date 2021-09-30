@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46666"
+   version="1.1"
+   id="svg15"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/geertje/Projects/laura/assets/icon512.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="512px"
+     units="px"
+     inkscape:zoom="0.72070006"
+     inkscape:cx="38.851114"
+     inkscape:cy="228.25029"
+     inkscape:window-width="1902"
+     inkscape:window-height="1035"
+     inkscape:window-x="9"
+     inkscape:window-y="9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8726" />
+  <defs
+     id="defs12">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9547">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop9543" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1"
+         offset="1"
+         id="stop9545" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9547"
+       id="radialGradient9549"
+       cx="67.73333"
+       cy="67.73333"
+       fx="67.73333"
+       fy="67.73333"
+       r="67.73333"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Circle">
+    <circle
+       style="fill:#2cbebe;stroke-width:0.433193"
+       id="path8562"
+       cx="67.73333"
+       cy="67.73333"
+       r="67.73333" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8726"
+     inkscape:label="Circle copy"
+     style="mix-blend-mode:luminosity;opacity:0.54156515">
+    <circle
+       style="fill:url(#radialGradient9549);fill-opacity:1;stroke-width:0.433193"
+       id="circle8724"
+       cx="67.73333"
+       cy="67.73333"
+       r="67.73333" />
+  </g>
+  <g
+     inkscape:label="Girl"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.512px;line-height:1.25;font-family:BeautyMarks;-inkscape-font-specification:'BeautyMarks, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.787802"
+       x="22.625294"
+       y="104.05152"
+       id="text7515"
+       transform="scale(0.88509565,1.1298214)"><tspan
+         sodipodi:role="line"
+         id="tspan7513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.512px;font-family:BeautyMarks;-inkscape-font-specification:'BeautyMarks, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.787802"
+         x="22.625294"
+         y="104.05152">M</tspan></text>
+  </g>
+</svg>
