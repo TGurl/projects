@@ -1,20 +1,20 @@
-import tkinter as tk
+import gi
+gi.require_version("Gtk", "3.0")
+from gi.repository import Gtk
 
-window = tk.Tk()
+class MyWindow(Gtk.Window):
+    def __init__(self):
+        super().__init__(title='Hello World')
 
-window.rowconfigure(0, minsize=50)
-window.columnconfigure([0, 1, 2, 3], minsize=50)
+        self.button = Gtk.Button(label='click here')
+        self.button.connect('clicked', self.on_button_clicked)
+        self.add(self.button)
 
-label1 = tk.Label(text='1', bg='black', fg='white')
-label2 = tk.Label(text='2', bg='black', fg='white')
-label3 = tk.Label(text='3', bg='black', fg='white')
-label4 = tk.Label(text='4', bg='black', fg='white')
+    def on_button_clicked(self, widget):
+        print("Hello World")
 
-label1.
 
-label1.grid(row=0, column=0)
-label2.grid(row=0, column=1, sticky='ew')
-label3.grid(row=0, column=2, sticky='ns')
-label4.grid(row=0, column=3, sticky='nsew')
-
-window.mainloop()
+win = MyWindow()
+win.connect("destroy", Gtk.main_quit)
+win.show_all()
+Gtk.main()
