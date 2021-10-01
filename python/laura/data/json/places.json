@@ -1,0 +1,88 @@
+{
+  "locations": [
+    {
+      "id": 0,
+      "name": "Bedroom",
+      "description": "Your bedroom. Nicely decorated with lot's of plants everywhere.",
+      "path": "s",
+      "rooms": "1"
+    },
+    {
+      "id": 1,
+      "name": "Hallway",
+      "description": "The hallway leads to the stairs in the west and east to the bathroom. To the north is your bedroom.",
+      "path": "nwe",
+      "rooms": "0,3,2"
+    },
+    {
+      "id": 2,
+      "name": "Bathroom",
+      "description": "The bathroom is small, but everything is there. The sink is covered with your brushes and make-up.",
+      "path": "w",
+      "rooms": "3"
+    },
+    {
+      "id": 3,
+      "name": "Stairway",
+      "description": "The stairway goes west down to the first floor, or east back into the hallway.",
+      "path": "ew",
+      "rooms": "3,4"
+    },
+    {
+      "id": 4,
+      "name": "Livingroom",
+      "description": "You're in your living room. You can go west up the stairs, south to the kitchen, east to the dining-room or north out the door.",
+      "path": "nesw",
+      "rooms": "8,3,6,5"
+    },
+    {
+      "id": 5,
+      "name": "Dining room",
+      "description": "The dining room holds a diningtable with 6 chairs. You can go west to the livingroom.",
+      "path": "w",
+      "rooms": "4"
+    },
+    {
+      "id": 6,
+      "name": "Kitchen",
+      "description": "A small kitchen is all you need. You hardly cook anyway. You can go north to the livingroom or west to the garden.",
+      "path": "nw",
+      "rooms": "4,7"
+    },
+    {
+      "id": 7,
+      "name": "Garden",
+      "description": "The garden is small and simple, it just about gives you a sense of privacy. You can go east back into the kitchen.",
+      "path": "e",
+      "rooms": "6"
+    },
+    {
+      "id": 8,
+      "name": "Porch",
+      "description": "You are on your porch, you can go north to the mall, east to the bar, south back into the house or west to go down town.",
+      "path": "ns",
+      "rooms": "9,10,4,11"
+    },
+    {
+      "id": 9,
+      "name": "mall",
+      "description": "The mall contains all your favorite shops.",
+      "path": "s",
+      "rooms": "8"
+    },
+    {
+      "id": 10,
+      "name": "The blackwood bar",
+      "description": "it's a bar. You can go west back home",
+      "path": "w",
+      "rooms": "8"
+    },
+    {
+      "id": 11,
+      "name": "Down town",
+      "description": "Down town",
+      "path": "e",
+      "rooms": "8"
+    }
+  ]
+}

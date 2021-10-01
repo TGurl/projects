@@ -2,14 +2,26 @@ import os
 import json
 
 
+# ----------------------------------
+#  Game stuff
+# ----------------------------------
 
-# ----------------------------------
-#  Return game stuff
-# ----------------------------------
+def show_title_screen(): 
+    clear()
+    logo = get_logo()
+    intro = read_story_file("0000-intro")
+
+    print(logo)
+    print(intro)
+    press_enter_to_continue()
+
+
+def press_enter_to_continue():
+    data = input("Press ENTER to continue...")
 
 
 def get_logo():
-    filename = "0000-logo.txt"
+    filename = "0000-logo"
     return read_gui_file(filename)
 
 
@@ -19,18 +31,18 @@ def get_logo():
 
 
 def read_gui_file(filename: str):
-    filename = f"data/story/{filename}.txt"
+    filename = f"data/gui/{filename}.txt"
     return read_file(filename)
 
 
 def read_story_file(filename: str):
-    filename = f"data/gui/{filename}.txt"
+    filename = f"data/story/{filename}.txt"
     return read_file(filename)
 
 
 def read_file(filename: str):
     with open(filename) as f:
-        data = filename.read()
+        data = f.read()
     return data
 
 

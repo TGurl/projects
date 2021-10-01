@@ -1,0 +1,118 @@
+{
+  "dresses": [
+    {
+      "id" : 0,
+      "name": "Red dress",
+      "description": "This is a nice red dress, it's a bit tight though and the deep cut hardly covers your nipples.",
+      "sexy": 6
+    },
+    {
+      "id" : 1,
+      "name": "Blue dress",
+      "description": "This is a really nice blue dress, with a tight body, but a nice loose skirt.",
+      "sexy": 2
+    },
+    {
+      "id" : 2,
+      "name": "Yellow summer dress",
+      "description": "This yellow summerdress is fairly loose, but very comfortable.",
+      "sexy": 1
+    },
+    {
+      "id" : 3,
+      "name": "Sweats",
+      "description": "This combi of yoga pants and a sweatshirt is very comfortable.",
+      "sexy": -5
+    },
+    {
+      "id": 4,
+      "name": "Crop top with mini skirt",
+      "decription": "This small cropt top really shows your huge breasts, together with the mini-skirt it's sure to make men notice you.",
+      "sexy" : 10
+    }
+  ],
+  "shoes": [
+    {
+      "id": 0,
+      "name": "Sneakers",
+      "description": "A nice pair of comfortable sneakes with a few pink accents.",
+      "sexy": 0
+    },
+    {
+      "id": 1,
+      "name": "Pumps",
+      "description": "These are a pair of black pumps, with a small heel.",
+      "sexy": 1
+    },
+    {
+      "id": 2,
+      "name": "Heels",
+      "description": "A nice pair of 4 inch block heigh heels.",
+      "sexy": 3
+    },
+    {
+      "id": 3,
+      "name": "High heels",
+      "description": "These hight heels realy make your legs pop. With their 6 inch high heels, you might regret it at the end of the night, though.",
+      "sexy": 5
+    },
+    {
+      "id": 4,
+      "name": "Extreme heels",
+      "description": "These 11 inch high heels make you walk like a ballerine. Days of pain lay in your future, but you sure love these shoes.",
+      "sexy": 10
+    }
+  ],
+  "stockings": [
+    {
+      "id": 0,
+      "name": "No stockings",
+      "description": "You love the feeling of the warm summer air on your legs.",
+      "sexy": 3
+    },
+    {
+      "id": 1,
+      "name": "Simple black stockings.",
+      "description": "These stockings really accentuate your legs, but they are nothing special.",
+      "sexy": 2
+    },
+    {
+      "id": 0,
+      "name": "Striped stockings",
+      "description": "These stockings with the black stripe, really makes men's head turn. They are expensive though.",
+      "sexy": 8
+    }
+  ],
+  "underwear": [
+    {
+      "id": 0,
+      "name": "No underwear",
+      "description": "You love going 'commando'. The feeling of freedom really makes you feel sexy.",
+      "sexy": 5
+    },
+    {
+      "id": 1,
+      "name": "Plain underwear",
+      "description": "Although comfortable, it's nothing special.",
+      "sexy": 0
+    },
+    {
+      "id": 2,
+      "name": "Black lingerie",
+      "description": "It's a nice black set, the bra is really comfortable.",
+      "sexy": 4
+    },
+    {
+      "id": 3,
+      "name": "Red, see through lingerie",
+      "description": "A nice red set. Your nipples are clearly visible through the fabric.",
+      "sexy": 5
+    },
+    {
+      "id": 4,
+      "name": "Black strapless bra, with a g-string.",
+      "description": "The bra gives you all the comfort, without the straps. The g-string just covers enough, but not a lot.",
+      "sexy": 8
+    }
+  ]
+}
