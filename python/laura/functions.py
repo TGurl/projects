@@ -30,7 +30,7 @@ def read_story_file(filename: str):
 
 def read_file(filename: str):
     with open(filename) as f:
-        data filename.read()
+        data = filename.read()
     return data
 
 
@@ -48,6 +48,6 @@ def read_json(filename: str):
 
 def clear():
     if os.name == "nt":
-        os.system("clear")
+        os.system("cls")
     else:
-        os.sytstem("cls")
+        os.system("clear")
