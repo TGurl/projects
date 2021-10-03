@@ -13,4 +13,4 @@ comments or suggestions, please be kind. I really want to learn.
 I chose the [WTFPL](http://www.wtfpl.net) license as I really don't think my code deserves anything more
 than that.
 
-![WTFPL](assets/logo-220x1601.png)
+![WTFPL](logo-220x1601.png)
